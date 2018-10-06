@@ -1,4 +1,4 @@
-# 2018.10.6
+# 2018.10.6 kooie
 # 回文判定
 def isKaibun(str):
     return str == str[::-1]

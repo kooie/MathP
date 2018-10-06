@@ -1,3 +1,4 @@
+#2018.10.06
 CARD_COUNT = 100
 
 def reverseCard(lst,startIdx,addV):
